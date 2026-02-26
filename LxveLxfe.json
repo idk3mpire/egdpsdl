@@ -1,12 +1,12 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "Lxve Lxfe",
+    "author": "KaizoUK",
+    "creators": "KaizoUK",
+    "verifier": "KaizoUK",
+    "verification": "https://youtu.be/LLjCQn4aAvw?si=YMxoB3oxDC53pZrz",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "Copyable",
     "records": [
         {
             "user": "Sample_Victor_1",
